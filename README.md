@@ -1,7 +1,8 @@
 # awesome-dialogue-management
 
+## Papers
 
-## Markov Process
+### Markov Process
 - Young, Steve J. "Using POMDPs for Dialog Management." SLT. 2006 [[link]](http://ssli.ee.washington.edu/courses/ee517sp07/papers/young-slt06.pdf)
 
 - Schatzmann, Jost, et al. "Agenda-based user simulation for bootstrapping a POMDP dialogue system." Human Language Technologies 2007: The Conference of the North American Chapter of the Association for Computational Linguistics; Companion Volume, Short Papers. Association for Computational Linguistics, 2007. [[link]](http://dl.acm.org/citation.cfm?id=1614146)
@@ -11,9 +12,13 @@
 - Thomson, Blaise, et al. "Training a real-world POMDP-based Dialogue System." Proceedings of the Workshop on Bridging the Gap: Academic and Industrial Research in Dialog Technologies. Association for Computational Linguistics, 2007. [[link]](http://dl.acm.org/citation.cfm?id=1556330)
 
 
-## Agenda-based
+### Agenda-based
 - Rudnicky, Alexander, and Wei Xu. "An agenda-based dialog management architecture for spoken language systems." IEEE Automatic Speech Recognition and Understanding Workshop. Vol. 13. No. 4. 1999. [[link]](http://www.cs.cmu.edu/~xw/asru99-agenda.pdf)
 
 
-## Open-source frameworks
-- Bohus, Dan, and Alexander I. Rudnicky. "The RavenClaw dialog management framework: Architecture and systems." Computer Speech & Language 23.3 (2009): 332-361. [[link]](http://www.sciencedirect.com/science/article/pii/S0885230808000545)[[website]](http://www.cs.cmu.edu/~dbohus/ravenclaw-olympus/index-dan.html)[[wiki]](http://wiki.speech.cs.cmu.edu/olympus/index.php/RavenClaw)
+### MISC
+- Bohus, Dan, and Alexander I. Rudnicky. "The RavenClaw dialog management framework: Architecture and systems." Computer Speech & Language 23.3 (2009): 332-361. [[link]](http://www.sciencedirect.com/science/article/pii/S0885230808000545)
+
+
+## Packages
+- RavenClaw/Olympus[[website]](http://www.cs.cmu.edu/~dbohus/ravenclaw-olympus/index-dan.html)[[wiki]](http://wiki.speech.cs.cmu.edu/olympus/index.php/RavenClaw)
