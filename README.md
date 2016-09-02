@@ -13,3 +13,7 @@
 
 ## Agenda-based
 - Rudnicky, Alexander, and Wei Xu. "An agenda-based dialog management architecture for spoken language systems." IEEE Automatic Speech Recognition and Understanding Workshop. Vol. 13. No. 4. 1999. [[link]](http://www.cs.cmu.edu/~xw/asru99-agenda.pdf)
+
+
+## Open-source frameworks
+- Bohus, Dan, and Alexander I. Rudnicky. "The RavenClaw dialog management framework: Architecture and systems." Computer Speech & Language 23.3 (2009): 332-361. [[link]](http://www.sciencedirect.com/science/article/pii/S0885230808000545)[[website]](http://www.cs.cmu.edu/~dbohus/ravenclaw-olympus/index-dan.html)[[wiki]](http://wiki.speech.cs.cmu.edu/olympus/index.php/RavenClaw)
