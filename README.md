@@ -34,6 +34,7 @@
 ## Slide decks
 - Approaches to Dialogue Systems and Dialogue Management [[link]](http://people.ict.usc.edu/~traum/Talks/cs544dialogue3-8-12.pdf)
 
+-----
 
 ## Packages
 - RavenClaw/Olympus[[website]](http://www.cs.cmu.edu/~dbohus/ravenclaw-olympus/index-dan.html)[[wiki]](http://wiki.speech.cs.cmu.edu/olympus/index.php/RavenClaw)
