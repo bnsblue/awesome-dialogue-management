@@ -16,12 +16,20 @@
 - Rudnicky, Alexander, and Wei Xu. "An agenda-based dialog management architecture for spoken language systems." IEEE Automatic Speech Recognition and Understanding Workshop. Vol. 13. No. 4. 1999. [[link]](http://www.cs.cmu.edu/~xw/asru99-agenda.pdf)
 
 
-## Corpora
-- Serban, Iulian Vlad, et al. "A survey of available corpora for building data-driven dialogue systems." arXiv preprint arXiv:1512.05742 (2015). [[link]](https://arxiv.org/abs/1512.05742)
-
 ### MISC
 - Bohus, Dan, and Alexander I. Rudnicky. "The RavenClaw dialog management framework: Architecture and systems." Computer Speech & Language 23.3 (2009): 332-361. [[link]](http://www.sciencedirect.com/science/article/pii/S0885230808000545)
 - Wen, Tsung-Hsien, et al. "A Network-based End-to-End Trainable Task-oriented Dialogue System." arXiv preprint arXiv:1604.04562 (2016). [[link]](http://arxiv.org/pdf/1604.04562.pdf)
+ 
+
+### Dialogue-state tracking
+- Henderson, Matthew, Blaise Thomson, and Steve Young. "Word-based dialog state tracking with recurrent neural networks." Proceedings of the 15th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL). 2014. [[ink]](http://mi.eng.cam.ac.uk/~sjy/papers/hety14.pdf)
+
+
+
+## Corpora
+- Serban, Iulian Vlad, et al. "A survey of available corpora for building data-driven dialogue systems." arXiv preprint arXiv:1512.05742 (2015). [[link]](https://arxiv.org/abs/1512.05742)
+
+
 
 ## Slide decks
 - Approaches to Dialogue Systems and Dialogue Management [[link]](http://people.ict.usc.edu/~traum/Talks/cs544dialogue3-8-12.pdf)
