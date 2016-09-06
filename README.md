@@ -24,12 +24,12 @@
 ### Dialogue-state tracking
 - Henderson, Matthew, Blaise Thomson, and Steve Young. "Word-based dialog state tracking with recurrent neural networks." Proceedings of the 15th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL). 2014. [[ink]](http://mi.eng.cam.ac.uk/~sjy/papers/hety14.pdf)
 
-
+------
 
 ## Corpora
 - Serban, Iulian Vlad, et al. "A survey of available corpora for building data-driven dialogue systems." arXiv preprint arXiv:1512.05742 (2015). [[link]](https://arxiv.org/abs/1512.05742)
 
-
+------
 
 ## Slide decks
 - Approaches to Dialogue Systems and Dialogue Management [[link]](http://people.ict.usc.edu/~traum/Talks/cs544dialogue3-8-12.pdf)
